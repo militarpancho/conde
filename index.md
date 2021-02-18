@@ -1,3 +1,3 @@
 ## CONDE Pool
 
-Please visit [our new site](cardanopool.com)
+Please visit [our new site](https://cardanopool.com)
